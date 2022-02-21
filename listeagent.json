@@ -1,0 +1,25 @@
+[{
+    "materiel": "mousqueton",
+    "role": " Mousqueton",
+    "image": "https://c8.alamy.com/compfr/gd8kwa/mousqueton-avec-isole-sur-fond-blanc-gd8kwa.jpg"
+  }, {
+    "materiel": "gants",
+    "role": "Gants d’intervention",
+    "image": "https://www.shoc-securite.fr/129-large_default/gants-d-intervention-coques.jpg"
+  }, {
+    "materiel": "brassard",
+    "role": "Brassard de sécurité",
+    "image": "https://avsvetements.fr/3637-tm_thickbox_default/brassard-de-securite.jpg"
+  }, {
+    "materiel": "menottes",
+    "role": "Porte menottes",
+    "image": "https://media1.vetsecurite.com/6667-thickbox_default/porte-menottes-administratives-toe-noir.jpg"
+  }, {
+    "materiel": "taser",
+    "role": "Taser",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Police_issue_X26_TASER-white.jpg/800px-Police_issue_X26_TASER-white.jpg"
+  }, {
+    "materiel": "lampe",
+    "role": " Lampe Torche",
+    "image": "https://www.manutan.fr/img/S/GRP/ST/AIG365326.jpg"
+  }]
